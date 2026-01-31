@@ -2,6 +2,8 @@
 
 int main (){
 
+    // Calculator using switch case
+
     int ch;
     float num1, num2, result;
 
