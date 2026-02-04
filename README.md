@@ -17,7 +17,7 @@ Codes and File Status:
 
 -- Assignments Folder:  
 -Assignment01.c - Program to check whether a given year is a leap year or not  
-&nbsp;&nbsp;&nbsp;&nbsp;Status : Completed  
+                Status : Completed  
 -Assignment02.c - Program to implement basic menu driven arithmetic calculator  
                 Status : Completed  
 -Assignment03.c - Program to print multiplication table of a given number  
