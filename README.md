@@ -12,7 +12,7 @@ Option 3: Standard Output Configuration -- (execute in terminal)
 
 ### Codes and File Status:  
 #### -- Main Folder: 
-<pre> 
+<pre>
 -hello.c - basic array in C  
 -matrix.c - basic matrix in C  
 -switch_calc.c - Basic Calculator in C using switch functionality  
