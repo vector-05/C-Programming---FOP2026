@@ -31,6 +31,8 @@ Option 3: Standard Output Configuration -- (execute in terminal)
                 Status : Completed  
 -Assignment05.c - Program to perform basic matrix operations  
                 Status : Incomplete : Modifications Remaining - Matrix Inverse | Matrix Input and Display Function.  
+-Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
+                Status : Completed
 -Assignment09.c - Program to check if a number is a armstrong number or not  
                 Status : Incomplete : Implementing Program for General input length n (n = 3 for assignment).  
 </pre>
