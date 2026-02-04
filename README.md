@@ -11,7 +11,7 @@ Option 3: Standard Output Configuration -- (execute in terminal)
 </pre>
 
 ### Codes and File Status:  
-#### -- Main Folder: 
+#### -- Classwork Folder: 
 <pre>
 -hello.c - basic array in C  
 -matrix.c - basic matrix in C  
