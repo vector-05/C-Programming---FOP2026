@@ -9,13 +9,13 @@ Option 3: Standard Output Configuration -- (execute in terminal)
             - ./a.out  
 
 ### Codes and File Status:  
--- Main Folder:  
+#### -- Main Folder:  
 -hello.c - basic array in C  
 -matrix.c - basic matrix in C  
 -switch_calc.c - Basic Calculator in C using switch functionality  
 -matrix_add.c - Basic Code for addition of two matrices  
 
--- Assignments Folder:  
+#### -- Assignments Folder:  
 -Assignment01.c - Program to check whether a given year is a leap year or not  
                 Status : Completed  
 -Assignment02.c - Program to implement basic menu driven arithmetic calculator  
