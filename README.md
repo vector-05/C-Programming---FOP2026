@@ -1,14 +1,14 @@
 # C-Programming---FOP2026
 C programming - Foundations of Programming Course 2026
 
-Running C program file:
-Option 1: Defaulte Run and Debug Command.
-Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.
-Option 3: Standard Output Configuration -- (execute in terminal)
-            - gcc file_name
-            - ./a.out
+Running C program file:  
+Option 1: Defaulte Run and Debug Command.  
+Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
+Option 3: Standard Output Configuration -- (execute in terminal)  
+            - gcc file_name  
+            - ./a.out  
 
-Codes and File Status:
+Codes and File Status:  
 -- Main Folder:
 -hello.c - basic array in C
 -matrix.c - basic matrix in C
