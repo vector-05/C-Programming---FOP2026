@@ -27,6 +27,8 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Modification : Include reversal for leading 0.
 -armstrong.c - Program to check armstrong number  
                 Status : Completed
+                Note : Includes code for general case n.
+                Modification : Code without inputting number of digits
 -num_reverse.c - Program to reverse a number  
                 Status : Completed
 </pre>
@@ -47,5 +49,6 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
                 Status : Completed
 -Assignment09.c - Program to check if a number is a armstrong number or not  
-                Status : Incomplete : Implementing Program for General input length n (n = 3 for assignment) using mathematical logic.  
+                Status : Completed  
+                Note : Includes code for general case n.
 </pre>

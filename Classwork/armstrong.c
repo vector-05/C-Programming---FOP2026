@@ -19,3 +19,23 @@ void main () {
         printf("%d is not an Armstrong number.\n", num);
     }
 }
+
+/*
+    // Program to check if a number is a armstrong number or not (General case n)
+    int n, originalNum, remainder, result = 0;
+    printf("Enter the number of digits (n): ");
+    scanf("%d", &n);
+    printf("Enter a number: ");
+    scanf("%d", &originalNum);
+    temp = originalNum;
+    while (temp > 0) {
+        remainder = temp % 10;
+        result += pow(remainder, n);
+        temp /= 10;
+    }
+    if (result == originalNum) {
+        printf("%d is an Armstrong number.\n", originalNum);
+    } else {
+        printf("%d is not an Armstrong number.\n", originalNum);
+    }
+*/
