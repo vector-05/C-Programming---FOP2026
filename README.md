@@ -13,14 +13,22 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
             - ./file_name
 </pre>
 
-### Codes and File Status:  
+### File Status and Codes:  
 #### -- Classwork Folder: 
 <pre>
 -hello.c - basic array in C  
+                Status : Completed
 -matrix.c - basic matrix in C  
+                Status : Completed
 -switch_calc.c - Calculator using switch case (with power, factorial)  
+                Status : Completed
 -matrix_add.c - Basic Code for addition of two matrices  
--armstrong.c - Program to check armstrong number
+                Status : Completed
+                Modification : Include reversal for leading 0.
+-armstrong.c - Program to check armstrong number  
+                Status : Completed
+-num_reverse.c - Program to reverse a number  
+                Status : Completed
 </pre>
 
 #### -- Assignments Folder:  
@@ -34,7 +42,8 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment04.c - Program to calculate salary of an employee given basic pay  
                 Status : Completed  
 -Assignment05.c - Program to perform basic matrix operations  
-                Status : Incomplete : Modifications Remaining - Matrix Inverse | Matrix Input and Display Function.  
+                Status : Completed
+                Modifications : Matrix Inverse | Matrix Input and Display Function.  
 -Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
                 Status : Completed
 -Assignment09.c - Program to check if a number is a armstrong number or not  
