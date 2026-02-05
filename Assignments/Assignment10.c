@@ -12,7 +12,7 @@ int factorial(int n) {
 
 int main (){
 
-    // Calculator using switch case (with power, factorial)
+    // Program for simple arithmetic calculator using switch case including power, factorial and exit option
 
     int ch;
     float num1, num2, result;

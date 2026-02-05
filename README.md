@@ -51,4 +51,6 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment09.c - Program to check if a number is a armstrong number or not  
                 Status : Completed  
                 Note : Includes code for general case n.
+-Assignment10.c - Program for simple arithmetic calculator using switch case including power, factorial and exit option
+                Status : Completed
 </pre>
