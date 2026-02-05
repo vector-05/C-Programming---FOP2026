@@ -6,7 +6,7 @@
 Option 1: Default Run and Debug Command.  
 Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
 Option 3: Standard Output Configuration -- (execute in terminal)  
-            - gcc file_name  
+            - gcc file_name.c  
             - ./a.out  
 Option 4: Standard Output Configuration with math.h -- (execute in terminal)
             - gcc file_nams.c -lm -o file_name
