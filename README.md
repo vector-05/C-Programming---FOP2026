@@ -3,7 +3,7 @@
 
 ### Running C program file:  
 <pre>
-Option 1: Defaulte Run and Debug Command.  
+Option 1: Default Run and Debug Command.  
 Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
 Option 3: Standard Output Configuration -- (execute in terminal)  
             - gcc file_name  
@@ -17,6 +17,7 @@ Option 3: Standard Output Configuration -- (execute in terminal)
 -matrix.c - basic matrix in C  
 -switch_calc.c - Basic Calculator in C using switch functionality  
 -matrix_add.c - Basic Code for addition of two matrices  
+-armstrong.c - Program to check armstrong number
 </pre>
 
 #### -- Assignments Folder:  
@@ -34,5 +35,5 @@ Option 3: Standard Output Configuration -- (execute in terminal)
 -Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
                 Status : Completed
 -Assignment09.c - Program to check if a number is a armstrong number or not  
-                Status : Incomplete : Implementing Program for General input length n (n = 3 for assignment).  
+                Status : Incomplete : Implementing Program for General input length n (n = 3 for assignment) using mathematical logic.  
 </pre>
