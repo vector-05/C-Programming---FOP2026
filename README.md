@@ -1,7 +1,7 @@
 # C Programming - FOP2026
 ## C programming - Foundations of Programming Course 2026
 
-### Running C program file:  
+### File Compilation and Execution Codes:  
 <pre>
 Option 1: Default Run and Debug Command.  
 Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
