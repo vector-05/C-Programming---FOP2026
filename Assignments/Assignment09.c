@@ -16,5 +16,11 @@ void main() {
     while (temp > 0) {
         int digit = temp % 10;
         sum += pow(digit, );
-
+    }
+    
+    if (sum == num) {
+        printf("%d is an Armstrong number.\n", num);
+    } else {
+        printf("%d is not an Armstrong number.\n", num);
+    }
 }
