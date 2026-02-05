@@ -18,7 +18,7 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
 <pre>
 -hello.c - basic array in C  
 -matrix.c - basic matrix in C  
--switch_calc.c - Basic Calculator in C using switch functionality  
+-switch_calc.c - Calculator using switch case (with power, factorial)  
 -matrix_add.c - Basic Code for addition of two matrices  
 -armstrong.c - Program to check armstrong number
 </pre>

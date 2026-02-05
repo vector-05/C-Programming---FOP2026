@@ -1,5 +1,13 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
+
+int factorial(int n) {
+    if(n == 0 || n == 1) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}
 
 int main (){
 
@@ -27,7 +35,8 @@ int main (){
         case 3 : result = num1 * num2; printf("Multiplication of %f and %f is: %f\n", num1, num2, result); break;
         case 4 : result = num1 / num2; printf("Division of %f and %f is: %f\n", num1, num2, result); break;
         case 5 : result = pow(num1, num2); printf("%f raised to the power %f is: %f\n", num1, num2, result); break;
-        case 7 : break;
+        case 6 : result = factorial((int)num1); printf("Factorial of %f is: %f\n", num1, result); break;
+        case 7 : exit(0); break;
         default : break;
     }
 
