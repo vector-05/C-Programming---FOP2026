@@ -3,12 +3,12 @@
 
 ### File Compilation and Execution Codes:  
 <pre>
-Option 1: Default Run and Debug Command.  
-Option 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
-Option 3: Standard Output Configuration -- (execute in terminal)  
+Code 1: Default Run and Debug Command.  
+Code 2: Code Runner Extention. Operates in Output tab. Inputs not allowed.  
+Code 3: Standard Output Configuration -- (execute in terminal)  
             - gcc file_name.c  
             - ./a.out  
-Option 4: Standard Output Configuration with math.h -- (execute in terminal)
+Code 4: Standard Output Configuration with math.h -- (execute in terminal)
             - gcc file_nams.c -lm -o file_name
             - ./file_name
 </pre>
@@ -52,5 +52,11 @@ Option 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Status : Completed  
                 Note : Includes code for general case n.
 -Assignment10.c - Program for simple arithmetic calculator using switch case including power, factorial and exit option
+                Status : Completed
+-Assignment11.c - Program to perform mathematical operations on numbers
+                Status : Incomplete : Yet to be implemented
+-Assignment12.c - Program to perform mathematical operations on two numbers
+                Status : Incomplete : Yet to be implemented
+-Assignment13.c - Program to reverse a number
                 Status : Completed
 </pre>
