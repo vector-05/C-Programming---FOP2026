@@ -9,6 +9,7 @@ int factorial(int n) {
 }
 
 void main() {
+
     // Assignment 11
     // Program to perform mathematical operations on numbers
     // - Square root
@@ -55,11 +56,6 @@ void main() {
     // Prime Factors
     printf("Prime factors of %d are: ", num);
     for (int i = 2; i <= num; i++) {
-        if (num % i == 0) {
-            printf("%d ", i);
-            num /= i;
-            i--;
-        }
+        
     }
-
 }
