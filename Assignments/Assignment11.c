@@ -1,11 +1,25 @@
 #include <stdio.h>
 #include <math.h>
 
+// Function to calculate factorial
 int factorial(int n) {
     if (n == 0 || n == 1) {
         return 1;
     }
     return n * factorial(n - 1);
+}
+
+// Function to check prime factors
+int isprime(int n) {
+    if (n <= 1) {
+        return 0;
+    } 
+    else {
+    for (int i = 2; i <= sqrt(n); i++) {
+        if (n % i == 0) return 0;
+        }
+    }
+    return 1;
 }
 
 void main() {
@@ -33,18 +47,7 @@ void main() {
     printf("Cube of %d is %f\n", num, pow(num, 3));
 
     // Check for prime number
-    int isPrime = 1;
-    if (num <= 1) {
-        isPrime = 0;
-    } else {
-        for (int i = 2; i <= sqrt(num); i++) {
-            if (num % i == 0) {
-                isPrime = 0;
-                break;
-            }
-        }
-    }
-    if (isPrime) {
+    if (isprime(num)) {
         printf("%d is a prime number\n", num);
     } else {
         printf("%d is not a prime number\n", num);
@@ -56,6 +59,9 @@ void main() {
     // Prime Factors
     printf("Prime factors of %d are: ", num);
     for (int i = 2; i <= num; i++) {
-        
+        if (num % i == 0 && isprime(i)) {
+            printf("%d ", i);
+        }
     }
+    printf("\n");
 }

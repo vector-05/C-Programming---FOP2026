@@ -54,7 +54,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment10.c - Program for simple arithmetic calculator using switch case including power, factorial and exit option
                 Status : Completed
 -Assignment11.c - Program to perform mathematical operations on numbers
-                Status : Incomplete : Yet to be implemented
+                Status : Completed
+                Review : Logical Review and Modifications
 -Assignment12.c - Program to perform mathematical operations on two numbers
                 Status : Incomplete : Yet to be implemented
 -Assignment13.c - Program to reverse a number
