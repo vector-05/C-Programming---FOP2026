@@ -53,6 +53,7 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Note : Includes code for general case n.
 -Assignment10.c - Program for simple arithmetic calculator using switch case including power, factorial and exit option
                 Status : Completed
+                Modifications : Implement factorial and power using loops
 -Assignment11.c - Program to perform mathematical operations on numbers
                 Status : Completed
                 Review : Logical Review and Modifications
