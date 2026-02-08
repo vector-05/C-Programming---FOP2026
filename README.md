@@ -56,7 +56,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Modifications : Implement factorial and power using loops
 -Assignment11.c - Program to perform mathematical operations on numbers
                 Status : Completed
-                Review : Logical Review and Modifications
+                Modifications : Make the program menu driven
+                Review : Logical Review 
 -Assignment12.c - Program to perform mathematical operations on two numbers
                 Status : Completed
                 Note : Update for Program extension to other mathematical operations and better logical development
