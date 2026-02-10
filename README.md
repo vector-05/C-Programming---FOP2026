@@ -60,6 +60,7 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Review : Logical Review 
 -Assignment12.c - Program to perform mathematical operations on two numbers
                 Status : Completed
+                Modifications : Use euclidean algorithm for program implementation
                 Note : Update for Program extension to other mathematical operations and better logical development
 -Assignment13.c - Program to reverse a number
                 Status : Completed
