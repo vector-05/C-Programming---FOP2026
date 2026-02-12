@@ -59,9 +59,9 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Modifications : Make the program menu driven
                 Review : Logical Review 
 -Assignment12.c - Program to perform mathematical operations on two numbers
-                Status : Completed
-                Modifications : Use euclidean algorithm for program implementation
-                Note : Update for Program extension to other mathematical operations and better logical development
+                Status : Imcomplete | Program under development for menu driven approach
+                Modifications : Modify euclidean algorithm code
+                Note : Program consists of LCM calculation | Update the program for extension to other mathematical operations
 -Assignment13.c - Program to reverse a number
                 Status : Completed
 </pre>
