@@ -65,3 +65,55 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment13.c - Program to reverse a number
                 Status : Completed
 </pre>
+
+#### -- Assessments Folder:  
+<pre>
+-LCA1.c - LCA 1 | 26-02-2026
+          Problem Statement : Program to perform mathematical operations on numbers
+          Status : SUbmitted
+</pre>
+
+#### -- NPTEL Folder:  
+<pre>
+-- Week3 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week4 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week5 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week6 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week7 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week8 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+
+-- Week9 :
+    - Assignment1.c :
+    - Assignment2.c :
+    - Assignment3.c :
+    - Assignment4.c :
+</pre>
