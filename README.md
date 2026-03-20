@@ -66,6 +66,9 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Status : Completed
 -Assignment14.c - Program to convert binary (input) to decimal (output)
                 Status : Completed
+-Assignment15.c - Program to generate a pseudo random number
+                Status : Completed
+                Modifications : Add lower/ upper bounds | Modify program structure
 </pre>
 
 #### -- Assessments Folder:  
