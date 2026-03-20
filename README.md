@@ -64,6 +64,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 Note : Program consists of LCM calculation | Update the program for extension to other mathematical operations
 -Assignment13.c - Program to reverse a number
                 Status : Completed
+-Assignment14.c - Program to convert binary (input) to decimal (output)
+                Status : Completed
 </pre>
 
 #### -- Assessments Folder:  
