@@ -69,6 +69,9 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment15.c - Program to generate a pseudo random number
                 Status : Completed
                 Modifications : Add lower/ upper bounds | Modify program structure
+-Assignment16.c - Program to accept a list of N integers and partition the list into two lists, one containing the even numbers and the other containing the odd numbers.
+                Status : Completed
+                Note : Further developments pending
 </pre>
 
 #### -- Assessments Folder:  
