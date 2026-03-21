@@ -9,7 +9,7 @@ Code 3: Standard Output Configuration -- (execute in terminal)
             - gcc file_name.c  
             - ./a.out  
 Code 4: Standard Output Configuration with math.h -- (execute in terminal)
-            - gcc file_nams.c -lm -o file_name
+            - gcc file_name.c -lm -o file_name
             - ./file_name
 </pre>
 
@@ -84,44 +84,44 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 #### -- NPTEL Folder:  
 <pre>
 -- Week3 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C Program to calculates the area (floating point number with two decimal places) of a Circle
+    - Assignment2.c : Write a C program to check if a given Number is zero or Positive or Negative Using if...else statement.
+    - Assignment3.c : Write a C program to check whether a given number (integer) is Even or Odd.
+    - Assignment4.c : Write a C Program to find the Largest Number (integer) among Three Numbers (integers) using IF and Logical && operator.
 
 -- Week4 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C Program to Find the Smallest Number among Three Numbers (integer values) using Nested IF-Else statement.
+    - Assignment2.c : The length of three sides are taken as input. Write a C program to find whether a triangle can be formed or not.
+    - Assignment3.c : Write a program to find the factorial of a given number using while loop.
+    - Assignment4.c : Write a Program to find the sum of all even numbers from 1 to N where the value of N is taken as input.
 
 -- Week5 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C program to check whether a given number (N) is a perfect number or not?
+    - Assignment2.c : Write a C program to count total number of digits of an Integer number (N).
+    - Assignment3.c : Write a C program to check whether the given number(N) can be expressed as Power of Two (2) or not.
+    - Assignment4.c : Write a C program to find sum of following series where the value of N is taken as input
 
 -- Week6 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C Program to find Largest Element of an Integer Array.
+    - Assignment2.c : Write a C Program to print the array elements in reverse order
+    - Assignment3.c : Write a C program to read Two Arrays of same data type and merge them into another Array of same type.
+    - Assignment4.c : Write a C Program to delete duplicate elements from an array of integers.
 
 -- Week7 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C program to find the sum of all elements of each row of a matrix.
+    - Assignment2.c : Write a C program to find subtraction of two matrices i.e. matrix_A - matrix_B=matrix_C.
+    - Assignment3.c : Write a C program to print lower triangle of a square matrix.
+    - Assignment4.c : Write a C Program to Count Number of Uppercase and Lowercase Letters in a given string.
 
 -- Week8 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : Write a C Program to find HCF of 4 given numbers using recursive function
+    - Assignment2.c : Write a C Program to find power of a given number using recursion.
+    - Assignment3.c : Write a C Program to print Binary Equivalent of an Integer using Recursion
+    - Assignment4.c : Write a C Program to reverse a given word using function.
 
 -- Week9 :
-    - Assignment1.c :
-    - Assignment2.c :
-    - Assignment3.c :
-    - Assignment4.c :
+    - Assignment1.c : [Pending Update] 
+    - Assignment2.c : [Pending Update] 
+    - Assignment3.c : [Pending Update] 
+    - Assignment4.c : [Pending Update] 
 </pre>
