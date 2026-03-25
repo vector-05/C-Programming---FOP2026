@@ -84,7 +84,7 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 <span style = "color: turquoise">Note : Program facing hallucination</span>
 -Assignment21.c - Program to copy contents of one file to another file
                 <span style = "color: red ">Status : Incomplete</span>
--Assignment22.c - Program to perform various string operations using built-in string functions
+-Assignment22.c - Program to perform various string operations using built-in string functions (menu driven program)
                 <span style = "color: red ">Status : Incomplete</span>
 </pre>
 
