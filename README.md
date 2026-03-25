@@ -72,6 +72,9 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment16.c - Program to accept a list of N integers and partition the list into two lists, one containing the even numbers and the other containing the odd numbers.
                 Status : Completed
                 Note : Further developments pending
+-Assignment17.c - To accept the number of terms and find the sum of the sine series
+                Status : Completed
+
 </pre>
 
 #### -- Assessments Folder:  
