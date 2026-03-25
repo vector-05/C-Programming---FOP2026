@@ -114,14 +114,14 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
     - Assignment4.c : Write a C Program to Count Number of Uppercase and Lowercase Letters in a given string.
 
 -- Week8 :
-    - Assignment1.c : Write a C Program to find HCF of 4 given numbers using recursive function
+    - Assignment1.c : Write a C Program to find HCF of 4 given numbers using recursive function.
     - Assignment2.c : Write a C Program to find power of a given number using recursion.
-    - Assignment3.c : Write a C Program to print Binary Equivalent of an Integer using Recursion
+    - Assignment3.c : Write a C Program to print Binary Equivalent of an Integer using Recursion.
     - Assignment4.c : Write a C Program to reverse a given word using function.
 
 -- Week9 :
-    - Assignment1.c : [Pending Update] 
-    - Assignment2.c : [Pending Update] 
-    - Assignment3.c : [Pending Update] 
-    - Assignment4.c : [Pending Update] 
+    - Assignment1.c : Write a program to print all the locations at which a element is found in a list and print the number of occurences.
+    - Assignment2.c : Write a C program to search a given element from a 1D array and display its position using linear search function.
+    - Assignment3.c : Write a C program to search a given number from a sorted 1D array and display its position using binary search algorithm.
+    - Assignment4.c : Write a C program to reverse an array by swapping the elements and without using any new array.
 </pre>
