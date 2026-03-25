@@ -46,6 +46,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment05.c - Program to perform basic matrix operations  
                 Status : Completed
                 Modifications : Matrix Inverse | Matrix Input and Display Function.  
+-Assignment07.c - Program to accept student details and display results using an array of structures
+                Status : Incomplete
 -Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
                 Status : Completed
 -Assignment09.c - Program to check if a number is a armstrong number or not  
@@ -72,9 +74,16 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment16.c - Program to accept a list of N integers and partition the list into two lists, one containing the even numbers and the other containing the odd numbers.
                 Status : Completed
                 Note : Further developments pending
--Assignment17.c - To accept the number of terms and find the sum of the sine series
+-Assignment17.c - Program To accept the number of terms and find the sum of the sine series
                 Status : Completed
-
+-Assignment18.c - Program to accept a string (input) and perform string operations on it
+                Status : Incomplete
+-Assignment19.c - Create Structure EMPLOYEE for storing details (Name, Designation, gender, date of joining, salary)
+                Status : Incomplete
+-Assignment21.c - Program to copy contents of one file to another file
+                Status : Incomplete
+-Assignment22.c - Program to perform various string operations using built-in string functions
+                Status : Incomplete
 </pre>
 
 #### -- Assessments Folder:  
