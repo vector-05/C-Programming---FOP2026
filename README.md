@@ -104,35 +104,30 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
     - Assignment3.c : Write a C program to check whether a given number (integer) is Even or Odd.
     - Assignment4.c : Write a C Program to find the Largest Number (integer) among Three Numbers (integers) using IF and Logical && operator.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: lightgreen ">Submission : Submitted</span>
 -- Week4:
     - Assignment1.c : Write a C Program to Find the Smallest Number among Three Numbers (integer values) using Nested IF-Else statement.
     - Assignment2.c : The length of three sides are taken as input. Write a C program to find whether a triangle can be formed or not.
     - Assignment3.c : Write a program to find the factorial of a given number using while loop.
     - Assignment4.c : Write a Program to find the sum of all even numbers from 1 to N where the value of N is taken as input.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: lightgreen ">Submission : Submitted</span>
 -- Week5:
     - Assignment1.c : Write a C program to check whether a given number (N) is a perfect number or not?
     - Assignment2.c : Write a C program to count total number of digits of an Integer number (N).
     - Assignment3.c : Write a C program to check whether the given number(N) can be expressed as Power of Two (2) or not.
     - Assignment4.c : Write a C program to find sum of following series where the value of N is taken as input
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: red ">Submission : Not Submitted</span>
 -- Week6:
     - Assignment1.c : Write a C Program to find Largest Element of an Integer Array.
     - Assignment2.c : Write a C Program to print the array elements in reverse order
     - Assignment3.c : Write a C program to read Two Arrays of same data type and merge them into another Array of same type.
     - Assignment4.c : Write a C Program to delete duplicate elements from an array of integers.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: lightgreen ">Submission : Submitted</span>
 -- Week7:
     - Assignment1.c : Write a C program to find the sum of all elements of each row of a matrix.
     - Assignment2.c : Write a C program to find subtraction of two matrices i.e. matrix_A - matrix_B=matrix_C.
     - Assignment3.c : Write a C program to print lower triangle of a square matrix.
     - Assignment4.c : Write a C Program to Count Number of Uppercase and Lowercase Letters in a given string.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: red ">Submission : Not Submitted</span>
 -- Week8:
     - Assignment1.c : Write a C Program to find HCF of 4 given numbers using recursive function.
     - Assignment2.c : Write a C Program to find power of a given number using recursion.
@@ -146,5 +141,4 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
     - Assignment3.c : Write a C program to search a given number from a sorted 1D array and display its position using binary search algorithm.
     - Assignment4.c : Write a C program to reverse an array by swapping the elements and without using any new array.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: lightgreen ">Submission : Submitted</span>
 </pre>
