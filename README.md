@@ -134,7 +134,6 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
     - Assignment3.c : Write a C Program to print Binary Equivalent of an Integer using Recursion.
     - Assignment4.c : Write a C Program to reverse a given word using function.
                 <span style = "color: lightgreen ">Status : Completed</span>
-                <span style = "color: lightgreen ">Submission : Submitted</span>
 -- Week9:
     - Assignment1.c : Write a program to print all the locations at which a element is found in a list and print the number of occurences.
     - Assignment2.c : Write a C program to search a given element from a 1D array and display its position using linear search function.
