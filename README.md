@@ -61,8 +61,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
                 <span style = "color: cyan">Modifications : Make the program menu driven</span>
                 <span style = "color: orange">Review : Logical Review</span>
 -Assignment12.c - Program to perform mathematical operations on two numbers
-                <span style = "color: red ">Status : Incomplete | Program under development for menu driven approach (menu untill explicit exit)</span>
-                <span style = "color: cyan">Modifications : Modify euclidean algorithm code</span>
+                <span style = "color: lightgreen ">Status : Completed</span>
+                <span style = "color: cyan">Modifications : Modify euclidean algorithm code | Program under development for menu driven approach (menu untill explicit exit)</span>
                 <span style = "color: turquoise">Note : Program consists of LCM calculation | Update the program for extension to other mathematical operations</span>
 -Assignment13.c - Program to reverse a number
                 <span style = "color: lightgreen ">Status : Completed</span>
