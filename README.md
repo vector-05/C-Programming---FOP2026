@@ -46,6 +46,8 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment05.c - Program to perform basic matrix operations  
                 <span style = "color: lightgreen ">Status : Completed</span>
                 <span style = "color: cyan">Modifications : Matrix Inverse | Matrix Input and Display Function</span>
+-Assignment06.c - Program to calculate factorial of a number with and without recursion
+                <span style = "color: lightgreen ">Status : Completed</span>
 -Assignment07.c - Program to accept student details and display results using an array of structures
                 <span style = "color: lightgreen ">Status : Completed</span>
 -Assignment08.c - Program to input marks of five subjects and calculate persentage and grade
