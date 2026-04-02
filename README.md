@@ -147,5 +147,7 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
     - Assignment1.c : Write a C program to sort a 1D array using pointer by applying Bubble sort technique
     - Assignment2.c : Write a C code to check if a 3 x 3 matrix is invertible. A matrix is not invertible if its determinant is 0
     - Assignment3.c : C program to find root of the equation 2x^3 - 3x - 5 = 0 using Bisection method
+                <span style = "color: turquoise">Note : Program facing approximation error due to structural boundations</span>
     - Assignment4.c : C program to find root of the equation x^3 - 2x - 3 = 0 using Newton-Raphson method
+                <span style = "color: lightgreen ">Status : Completed</span>
 </pre>
