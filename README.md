@@ -87,9 +87,9 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -Assignment20.c - Program to swap two number with and without pointers
                 <span style = "color: lightgreen ">Status : Completed</span>
 -Assignment21.c - Program to copy contents of one file to another file
-                <span style = "color: red ">Status : Incomplete</span>
+                <span style = "color: lightgreen ">Status : Completed</span>
 -Assignment22.c - Program to perform various string operations using built-in string functions (menu driven program)
-                <span style = "color: red ">Status : Incomplete</span>
+                <span style = "color: lightgreen ">Status : Completed</span>
 </pre>
 
 #### -- Assessments Folder:  
