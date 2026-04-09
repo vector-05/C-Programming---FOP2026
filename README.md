@@ -94,10 +94,14 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 
 #### -- Assessments Folder:  
 <pre>
--LCA1.c - LCA 1 | 26-02-2026
-          Problem Statement : Program to perform mathematical operations on numbers
+-LCA_1.c - LCA 1 | 26-02-2026
+            Problem Statement : Program to perform mathematical operations on numbers
                 <span style = "color: lightgreen ">Status : Completed</span>
                 <span style = "color: lightgreen ">Submission : Submitted</span>
+-LCA_2.c - LCA 2 | 09-04-2026
+            Problem Statement : Input an array from user and create odd and even arrays
+                <span style = "color: lightgreen ">Status : Completed</span>
+                
 </pre>
 
 #### -- NPTEL Folder:  
