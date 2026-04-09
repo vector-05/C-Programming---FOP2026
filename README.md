@@ -101,7 +101,7 @@ Code 4: Standard Output Configuration with math.h -- (execute in terminal)
 -LCA_2.c - LCA 2 | 09-04-2026
             Problem Statement : Input an array from user and create odd and even arrays
                 <span style = "color: lightgreen ">Status : Completed</span>
-                
+                <span style = "color: lightgreen ">Submission : Submitted</span>
 </pre>
 
 #### -- NPTEL Folder:  
